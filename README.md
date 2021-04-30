@@ -62,4 +62,4 @@ public static boolean isINTC(String s) { // 数字常量自动机
 
 跳转文档
 
-[下一个文档](./wh.md)
+[下一个文档](./WH.md)
