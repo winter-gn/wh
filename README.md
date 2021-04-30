@@ -60,5 +60,6 @@ public static boolean isINTC(String s) { // 数字常量自动机
 
 ![](https://gss0.baidu.com/70cFfyinKgQFm2e88IuM_a/baike/pic/item/77094b36acaf2eddb8f23230831001e9380193e3.jpg)
 
+跳转文档
 
-
+[下一个文档](./wh.md)
